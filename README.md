@@ -1,4 +1,4 @@
-# bcparks-daypass-bot
+# BC Parks Day Use Pass Bot
 Bot for getting Day Use Pass from BC Parks website
 
 Currently it's just made for Joffre Lakes Provincial Park. But should be easy to extend to other parks too.
