@@ -1,0 +1,8 @@
+selenium
+webdriver-manager
+pydub
+azure-cognitiveservices-speech
+SpeechRecognition
+requests
+undetected-chromedriver
+setuptools
